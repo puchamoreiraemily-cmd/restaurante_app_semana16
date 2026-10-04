@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Arroz con pollo",
+        "categoria": "Platos fuertes",
+        "precio": 5.50
+    },
+    {
+        "id": 2,
+        "nombre": "Encebollado",
+        "categoria": "Platos típicos",
+        "precio": 4.00
+    },
+    {
+        "id": 3,
+        "nombre": "Hamburguesa especial",
+        "categoria": "Comida rápida",
+        "precio": 6.50
+    },
+    {
+        "id": 4,
+        "nombre": "Jugo de mora",
+        "categoria": "Bebidas",
+        "precio": 2.00
+    },
+    {
+        "id": 5,
+        "nombre": "Torta de chocolate",
+        "categoria": "Postres",
+        "precio": 3.50
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Administrador General",
+        "usuario": "admin",
+        "password": "1234",
+        "rol": "Administrador"
+    },
+    {
+        "id": 2,
+        "nombre": "María López",
+        "usuario": "maria",
+        "password": "1234",
+        "rol": "Empleado"
+    },
+    {
+        "id": 3,
+        "nombre": "Carlos Pérez",
+        "usuario": "carlos",
+        "password": "1234",
+        "rol": "Cliente"
+    },
+    {
+        "id": 4,
+        "nombre": "Juan Carlos Perez",
+        "usuario": "juan",
+        "password": "1234",
+        "rol": "Cliente"
+    },
+    {
+        "id": 5,
+        "nombre": "Ana Torres",
+        "usuario": "ana",
+        "password": "1234",
+        "rol": "Empleado"
+    }
+]
